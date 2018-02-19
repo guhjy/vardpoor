@@ -1,4 +1,5 @@
 # vardpoor
+http://www.citeulike.org/user/guhjy/article/14538020
 
 [![CRAN version](http://www.r-pkg.org/badges/version/vardpoor "CRAN version")](https://cran.r-project.org/package=vardpoor)
 [![CRAN last release](http://www.r-pkg.org/badges/last-release/vardpoor "CRAN last release")](https://cran.r-project.org/package=vardpoor)
